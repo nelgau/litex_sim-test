@@ -4,7 +4,8 @@
 
 Install these packages:
 
+    $ brew install pkg-config
     $ brew install json-c
     $ brew install libevent
-    $ brew install nelgau/fpga/verilator@4.106
+    $ brew install verilator
 
